@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@config "./tailwind.config.js";
+
+html {
+  /* This is the key declaration for smooth scrolling */
+  scroll-behavior: smooth;
+}
+
